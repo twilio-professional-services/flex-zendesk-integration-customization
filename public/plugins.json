@@ -1,0 +1,16 @@
+[
+    {
+    "phase": 1,
+    "name": "Twilio Zendesk Integration Plugin",
+    "version": "1.4.5",
+    "src": "https://assets.flex.twilio.com/twilio/flex-zendesk-integration/1.4.5/plugin-flex-zendesk-integration.js"
+  },
+
+  
+  {
+    "phase": 3,
+    "name": "FlexZendeskIntegrationCustomizationPlugin",
+    "src": "http://localhost:3000/plugins/flex-zendesk-integration-customization.js"
+  }
+
+]
